@@ -83,9 +83,3 @@ if st.button("Hitung pH dan pOH"):
 st.markdown("---")
 st.caption("📘 Made with Streamlit for educational purposes
 
-
-#
-import streamlit as st
-
-color = st.color_picker("Pick A Color", "#00f900")
-st.write("The current color is", color)          
