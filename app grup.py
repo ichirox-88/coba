@@ -81,4 +81,4 @@ if st.button("Hitung pH dan pOH"):
     st.caption(f"pH kamu di sekitar angka {round(pH)} pada skala warna di atas.")
 
 st.markdown("---")
-st.caption("📘 Made with Streamlit for educational purposes.")
+st.caption("📘 Made with Streamlit for educational purposes
