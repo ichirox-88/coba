@@ -1,6 +1,9 @@
 import streamlit as st
 import math
 
+color = st.color_picker("Pick A Color", "#00f900")
+st.write("The current color is", color)
+
 st.set_page_config(page_title="Kalkulator pH & pOH", layout="centered")
 
 # Title
